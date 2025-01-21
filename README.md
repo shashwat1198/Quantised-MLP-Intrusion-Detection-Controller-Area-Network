@@ -47,5 +47,4 @@ If you use this work in your research, please cite:
   organization={IEEE}
 }
 
-}
 ```
