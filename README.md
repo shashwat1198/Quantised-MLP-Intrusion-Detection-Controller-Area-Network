@@ -9,7 +9,6 @@ This repository implements a custom-quantised multi-layer perceptron (CQMLP) neu
 - **FPGA Deployment**: Utilizes AMD/Xilinx Brevitas for training and FINN for hardware acceleration targeting the XCZU7EV device.
 - **High Accuracy**: Achieves 99.9% detection accuracy on public CAN attack datasets.
 - **Low Latency and Energy Efficiency**: Operates at a latency of 0.11 ms per message and consumes only 0.23 mJ per inference.
-- 
 ---
 
 ## Prerequisites
